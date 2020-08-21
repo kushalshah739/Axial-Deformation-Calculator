@@ -1,6 +1,6 @@
 
 
-%% In Imperial
+%% Part A in Imperial Units
 
 disp("This Is Part A The Input Must Be In Imperial");
 
