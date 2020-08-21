@@ -7,12 +7,15 @@ disp("This Is Part A The Input Must Be In Imperial");
 D0= input('Enter Diameter d0 In Inches');
 Di= input('Enter Diameter di In Inches');
 D= input('Enter Diameter d In Inches');
+
 L1= input('Enter Length L1 In Inches');
 L2= input('Enter Length L2 In Inches');
 L3= input('Enter Length L3 In Inches');
+
 E1= input('Enter The Material Property E1 In Ksi');
 E2= input('Enter The Material Property E2 In Ksi');
 E3= input('Enter The Material Property E3 Ksi');
+
 Pc=input('Enter The Force Pc In Kips');
 
 
